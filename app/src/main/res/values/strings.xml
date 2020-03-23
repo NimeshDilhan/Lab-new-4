@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 4 new</string>
+    <string name="singu">Sing Up</string>
+    <string name="name">Name</string>
+    <string name="email">E-Mail</string>
+    <string name="telephone">Telephone</string>
+    <string name="password">Password</string>
+    <string name="repassword">Re-Type-Password</string>
+    <string name="chanel_name">Chanel Name</string>
+    <string name="channel_description">Chnnel Description</string>
+</resources>
